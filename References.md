@@ -10,3 +10,22 @@
 
 
 
+* 함수형 프로그래밍 요약
+
+  <https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD>
+
+* 브라우저는 어떻게 동작하는가?
+
+  <https://d2.naver.com/helloworld/59361>
+
+* 브라우저에 URL 입력 후 일어나는 일들
+
+  <https://wangin9.tistory.com/entry/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90-url-%EC%9E%85%EB%A0%A5-%ED%9B%84-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC%EB%93%A4-intro?category=827054>
+
+* CSS와 자바스크립트 애니메이션
+
+  <https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript?hl=ko>
+
+* Web Animation API
+
+  <https://sculove.github.io/slides/webAnimation/#/15>
